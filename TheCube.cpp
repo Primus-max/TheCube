@@ -6,7 +6,6 @@
 using namespace std;
 #define CUBE(x) ((x) * (x) * (x))
 
-
 int main()
 {
     SetConsoleCP(1251);
